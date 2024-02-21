@@ -1,2 +1,9 @@
-# refactor-urban-octo-telegram
-Bootcamp HTML /CSS exercise
+#Bootcamp HTML /CSS exercise
+
+README.md
+This file provides an overview of the HTML file for Horiseon, a digital marketing agency website.
+
+Project Name: Horiseon Website
+
+Purpose: This website showcases Horiseon's services and expertise in digital marketing, including search engine optimization (SEO), online reputation management (ORM), and social media marketing (SMM).
+
