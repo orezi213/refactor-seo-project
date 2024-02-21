@@ -7,3 +7,6 @@ Project Name: Horiseon Website
 
 Purpose: This website showcases Horiseon's services and expertise in digital marketing, including search engine optimization (SEO), online reputation management (ORM), and social media marketing (SMM).
 
+Github: https:github.com/ajfizle/refactor-urban-octo-telegram/
+Github.io: https://ajfizzle.github.io/refactor-urban-octo-telegram/
+
