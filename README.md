@@ -15,8 +15,8 @@ This page showcases Horiseon's services and expertise in digital marketing, incl
 ## Usage
 
 1. Clone this repository to your local machine.
-- Github: github.com/ajfizzle/refactor-urban-octo-telegram
-- Github.io: ajfizzle.github.io/refactor-urban-octo-telegram
+  - Github: github.com/ajfizzle/refactor-urban-octo-telegram
+  - Github.io: ajfizzle.github.io/refactor-urban-octo-telegram
 
 2. Open the `index.html` file in your preferred web browser.
 
