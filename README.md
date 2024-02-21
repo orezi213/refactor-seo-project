@@ -24,5 +24,5 @@ This page showcases Horiseon's services and expertise in digital marketing, incl
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
