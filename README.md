@@ -16,6 +16,8 @@ This page showcases Kenzo's services and expertise in digital marketing, includi
 ## Usage
 
 1. Clone this repository to your local machine.
+   https://orezi213.github.io/refactor-seo-project/
+   https://github.com/orezi213/refactor-seo-project
 
 2. Open the `index.html` file in your preferred web browser.
 
