@@ -1,22 +1,21 @@
 #Bootcamp HTML /CSS exercise
 
-Project Name: Horiseon Website
+Project Name: Kenzo Webpage
 
-This file provides an overview of the HTML file for Horiseon, a digital marketing agency website.
+This file provides an overview of the HTML file for Kenzo, a digital marketing Group website.
 
 ## Description
-This page showcases Horiseon's services and expertise in digital marketing, including search engine optimization (SEO), online reputation management (ORM), and social media marketing (SMM).
+
+This page showcases Kenzo's services and expertise in digital marketing, including search engine optimization (SEO), online reputation management (ORM), and social media marketing (SMM).
 
 ## Technologies
+
 - HTML
 - CSS
-
 
 ## Usage
 
 1. Clone this repository to your local machine.
-  - Github: github.com/ajfizzle/refactor-urban-octo-telegram
-  - Github.io: ajfizzle.github.io/refactor-urban-octo-telegram
 
 2. Open the `index.html` file in your preferred web browser.
 
@@ -25,4 +24,3 @@ This page showcases Horiseon's services and expertise in digital marketing, incl
 ## License
 
 This project is licensed under the MIT License.
-
